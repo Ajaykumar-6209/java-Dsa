@@ -3,6 +3,5 @@
 # Student
  Ajay kumar
 
- # teacher 
- kunal kushawa
+ 
  
